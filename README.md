@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @emersonjps
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-emersonjps/emersonjps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Sobre_mim {
+- 👋 Olá, me chamo Emerson José
+- 👀 Estudo Redes de computadores e programo em Java e Python.
+- 🌱 "Esforço" é uma palavra que me define bem.
+- 💞️ Bom de trabalhar em equipe pois, sou bem comunicativo! 
+-  📫 Contato: emerson20010213@gmail.com 
+-  }
+ 
