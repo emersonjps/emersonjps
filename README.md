@@ -1,6 +1,6 @@
 # Sobre_mim {
 -   Me chamo Emerson José, desenvolvedor Jr. web, buscando cada vez mais me aprofundar nas stacks.
--   Atualmente desevolvo em Javascript, HTML, CSS, Python e Kotlin, nos mais diversos projetos, como 
+-   Atualmente estou desenvolvendo em Javascript, HTML, CSS, Python e Kotlin, nos mais diversos projetos, como 
 -   sites, aplicações e práticas virtuais para a atual empresa da rede de ensino Ser Educacional.
 #  }
  
