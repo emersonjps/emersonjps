@@ -1,12 +1,12 @@
+# Page Person: 
+https://emersonjps.github.io/landingPagePerson/
+
 # Sobre_mim {
 -   Me chamo Emerson José, desenvolvedor Jr. web, buscando cada vez mais me aprofundar nas stacks.
 -   Atualmente estou desenvolvendo em Javascript, HTML, CSS, Python e Kotlin, em projetos diversos, como 
 -   sites, aplicativos e práticas virtuais para a atual empresa da rede de ensino Ser Educacional.
 #  }
 
-# Page Person: 
-https://emersonjps.github.io/landingPagePerson/
- 
  <div align="center">
   <a href="https://github.com/emersonjps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonjps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
