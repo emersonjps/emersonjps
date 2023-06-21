@@ -1,5 +1,4 @@
-# Page Person: 
-<a href="https://emersonjps.github.io/landingPagePerson/">Clique aqui!</a>
+<a href="https://emersonjps.github.io/landingPagePerson/">Link para landing page profile</a>
 
 # Sobre_mim {
 -   Me chamo Emerson José, desenvolvedor Jr. web, buscando cada vez mais me aprofundar nas stacks.
