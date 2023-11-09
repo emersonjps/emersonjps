@@ -3,7 +3,7 @@
 
  Skills: React, Node, Typescript, Kotlin.
 
-<a href="https://emersonjps.github.io/landingPagePerson/">Link para landing page profile</a>
+<a href="https://landing-page-person.vercel.app/">Link para landing page profile</a>
 
 <div> 
   <a href="https://www.instagram.com/emerson_jps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
