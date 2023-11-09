@@ -1,7 +1,15 @@
- Apaixonado por tecnologia, estudando sempre para aprimoramento de minhas habilidades, sou bem comunicativo e bom para trabalhar em equipes, seja dividindo e delegando atividades e ou comprindo tasks com prazo e qualidade 
- correta evitando retrabalho com atividades e escalando a aplicação trabalhada, atualmente atuando como desenvolvedor web jr. mas pego projetos diversos voltados a web, mobile, back-end e front-end.
-
- Skills: React, Node, Typescript, Kotlin.
+O meu portfólio destaca minhas habilidades como desenvolvedor web com
+foco na segurança de tipos. Utilizo Typescript para garantir a integridade
+dos dados na web, especialmente em projetos que empregam Nestjs + TS
+para o back-end, seguindo o padrão Rest API. Possuo conhecimento em
+ambientes Linux e no uso do terminal. Tenho experiência na criação e
+manipulação de bancos de dados tanto relacionais quanto não relacionais,
+com proficiência em SQL. Além disso, sou capaz de desenvolver
+aplicações front-end com Next + React. Realizo deploy em ambientes de
+produção, incluindo Heroku, Vercel, Hostgator e AWS EC2.
+Minha prática inclui trabalhar em equipes ágeis usando a metodologia
+SCRUM, elaborando diagramas UML e fornecendo documentação de
+projetos. Adicionalmente, tenho exp
 
 <a href="https://landing-page-person.vercel.app/">Link para landing page profile</a>
 
