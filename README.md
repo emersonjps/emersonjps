@@ -1,3 +1,5 @@
+## Resumo
+
 O meu portfólio destaca minhas habilidades como desenvolvedor web com
 foco na segurança de tipos. Utilizo Typescript para garantir a integridade
 dos dados na web, especialmente em projetos que empregam Nestjs + TS
@@ -11,7 +13,15 @@ Minha prática inclui trabalhar em equipes ágeis usando a metodologia
 SCRUM, elaborando diagramas UML e fornecendo documentação de
 projetos. Adicionalmente, tenho exp
 
-<a href="https://landing-page-person.vercel.app/">Link para landing page profile</a>
+[Abrir página pessoal!](https://landing-page-person.vercel.app/)
+
+## Softskills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,nextjs,vite,express,threejs,nestjs,aws,bitbucket,git,github,webpack,postman,docker,heroku,vercel,tailwind,figma,prisma,sequelize,mysql,postgres,sqlite,mongodb,jest,cypress,linux,vim,nginx" />
+</p>
+
+## Contatos
 
 <div> 
   <a href="https://www.instagram.com/emerson_jps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
