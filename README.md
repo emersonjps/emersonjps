@@ -15,7 +15,7 @@ projetos. Adicionalmente, tenho exp
 
 [Abrir página pessoal!](https://landing-page-person.vercel.app/)
 
-![Status](./profile-green-animate.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 ## Softskills
 
