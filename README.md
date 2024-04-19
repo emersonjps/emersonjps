@@ -15,14 +15,6 @@ projetos. Adicionalmente, tenho exp
 
 [Abrir página pessoal!](https://landing-page-person.vercel.app/)
 
-![Status](./profile-3d-contrib/profile-night-green.svg)
-
-## Softskills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,nextjs,vite,express,threejs,nestjs,aws,bitbucket,git,github,webpack,postman,docker,heroku,vercel,tailwind,figma,prisma,sequelize,mysql,postgres,sqlite,mongodb,jest,cypress,linux,vim,nginx" />
-</p>
-
 ## Contatos
 
 <div> 
@@ -30,3 +22,14 @@ projetos. Adicionalmente, tenho exp
   <a href = "mailto:emerson20010213@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emerson-jos%C3%A9-196095186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+## Softskills
+
+![Status](./profile-3d-contrib/profile-night-green.svg)
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,nextjs,vite,express,threejs,nestjs,aws,bitbucket,git,github,webpack,postman,docker,heroku,vercel,tailwind,figma,prisma,sequelize,mysql,postgres,sqlite,mongodb,jest,cypress,linux,vim,nginx" />
+</p>
+
+
