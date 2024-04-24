@@ -11,7 +11,7 @@ aplicações front-end com Next + React. Realizo deploy em ambientes de
 produção, incluindo Heroku, Vercel, Hostgator e AWS EC2.
 Minha prática inclui trabalhar em equipes ágeis usando a metodologia
 SCRUM, elaborando diagramas UML e fornecendo documentação de
-projetos. Adicionalmente, tenho exp
+projetos.
 
 [Abrir página pessoal!](https://landing-page-person.vercel.app/)
 
