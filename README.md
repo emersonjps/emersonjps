@@ -1,17 +1,6 @@
 ## Resumo
 
-O meu portfólio destaca minhas habilidades como desenvolvedor web com
-foco na segurança de tipos. Utilizo Typescript para garantir a integridade
-dos dados na web, especialmente em projetos que empregam Nestjs + TS
-para o back-end, seguindo o padrão Rest API. Possuo conhecimento em
-ambientes Linux e no uso do terminal. Tenho experiência na criação e
-manipulação de bancos de dados tanto relacionais quanto não relacionais,
-com proficiência em SQL. Além disso, sou capaz de desenvolver
-aplicações front-end com Next + React. Realizo deploy em ambientes de
-produção, incluindo Heroku, Vercel, Hostgator e AWS EC2.
-Minha prática inclui trabalhar em equipes ágeis usando a metodologia
-SCRUM, elaborando diagramas UML e fornecendo documentação de
-projetos.
+Sinto prazer no que faço, programar, aprender, lidar com pessoas me faz me sentir dinâmico e em plena eficiêcia, buscando sempre novas formas, novos padrões, arquitetura.. isso sim me faz sentir prazer no que eu faço, afinal sou um desenvolvedor. 
 
 [Abrir página pessoal!](https://landing-page-person.vercel.app/)
 
