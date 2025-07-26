@@ -1,6 +1,6 @@
 ## Resumo
 
-Sinto prazer no que faço, programar, aprender, lidar com pessoas me faz me sentir dinâmico e em plena eficiêcia, buscando sempre novas formas, novos padrões, arquitetura.. isso sim me faz sentir prazer no que eu faço, afinal sou um desenvolvedor. 
+Sou apaixonado por desenvolvimento de software e motivado por desafios que envolvem aprendizado contínuo, resolução de problemas e colaboração com pessoas. Programar, estudar novas abordagens, explorar padrões e arquiteturas são atividades que me mantêm em constante evolução. Acredito que a tecnologia é um meio poderoso de transformar ideias em soluções reais, e é isso que me move como desenvolvedor.
 
 [Abrir página pessoal!](https://landing-page-person.vercel.app/)
 
