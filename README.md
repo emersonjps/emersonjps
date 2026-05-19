@@ -1,6 +1,4 @@
-## Resumo
-
-Sou apaixonado por desenvolvimento de software e motivado por desafios que envolvem aprendizado contínuo, resolução de problemas e colaboração com pessoas. Programar, estudar novas abordagens, explorar padrões e arquiteturas são atividades que me mantêm em constante evolução. Acredito que a tecnologia é um meio poderoso de transformar ideias em soluções reais, e é isso que me move como desenvolvedor.
+Desenvolvedor de software com experiência na construção de soluções seguras e escaláveis para os setores de Health Tech e Meios de Pagamento. Focado na resolução de problemas complexos, aplicação de padrões de arquitetura e melhoria contínua. Movido pelo propósito de usar a tecnologia para transformar ideias em produtos que geram valor real.
 
 [🔗 ABRIR PÁGINA PESSOAL](https://landing-page-person.vercel.app/)
 
