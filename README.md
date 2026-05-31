@@ -1,4 +1,16 @@
-Desenvolvedor de software com experiência na construção de soluções seguras e escaláveis para os setores de Health Tech e Meios de Pagamento. Focado na resolução de problemas complexos, aplicação de padrões de arquitetura e melhoria contínua. Movido pelo propósito de usar a tecnologia para transformar ideias em produtos que geram valor real.
+### Olá, sou Emerson Pereira 👋
+
+Analista de Sistemas Pleno/Sênior e Desenvolvedor Full Stack, especializado no ecossistema **TypeScript/Node.js** e arquitetura **Cloud (AWS)**.
+
+Com sólida experiência em sistemas transacionais, atuo na criação de APIs robustas, arquiteturas escaláveis e integração de meios de pagamento complexos (Stripe, Mercado Pago, Zoop, PIX). Tenho foco em performance, otimização de infraestrutura e entrega de valor direto ao negócio.
+
+**Especialidades e Tecnologias:**
+
+* **Backend & Cloud:** Node.js, NestJS, AWS, APIs REST, tRPC e CI/CD automáticos.
+* **Frontend:** React, Next.js, ecossistema T3 Stack.
+* **Engenharia de Software:** Arquitetura transacional, Clean Code, Observabilidade (Datadog) e Testes Automatizados.
+
+📫 **Contato:** emerson.dev.pereira@gmail.com | [LinkedIn](https://www.linkedin.com/in/emersonjps/)
 
 [🔗 ABRIR PÁGINA PESSOAL](https://landing-page-person.vercel.app/)
 
